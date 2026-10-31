@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../RealtimeAnalytics.Application/RealtimeAnalytics.Application.csproj" Id="79eee4b9-0467-47fd-af45-8e7f30c912f0" />
+  <Project Path="../RealtimeAnalytics.Domain/RealtimeAnalytics.Domain.csproj" Id="16c900df-927f-471c-bc2b-5c302dedfea4" />
+  <Project Path="../RealtimeAnalytics.Infrastructure/RealtimeAnalytics.Infrastructure.csproj" Id="0b302313-8753-4a5e-8ed5-b673cad04298" />
+  <Project Path="RealtimeAnalytics.Api.csproj" />
+</Solution>
